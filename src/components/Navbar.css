@@ -1,0 +1,32 @@
+.navbar {
+    background-color: #333;
+    padding: 10px;
+  }
+  
+  .navbar-list {
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .navbar-list li {
+    margin: 0 10px;
+  }
+  
+  .navbar-list a {
+    color: white;
+    text-decoration: none;
+  }
+  
+  .search-form {
+    display: flex;
+    align-items: center;
+  }
+  
+  .search-form input {
+    margin-right: 5px;
+    padding: 5px;
+  }
+  
